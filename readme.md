@@ -1,5 +1,5 @@
 # 🙋🏻‍♂️ About Me:
-🏗️ I'm currently working on building a few projects, one of them being a voice changer using C++. <br>💪🏼 I'm Looking to collaborate on any project. <br>🕵🏻 I need help with gathering trivia questions and/or finding trivia-based APIs.<br>🧑🏻‍🏫 Also, I'm learning C/C++, CMake, Rust, Python, C#, .Net, Java, JavaScript, Node.js, SQL, and Docker. Overall, improving my programming skills<br>💬 Ask me about anything!<br>⚡ Fun facts: I started "programming" (I used blocks) in 6th grade. Also, I do photography in my free time. <br><br>
+🏗️ I'm currently working on building a few projects, one of them being a Movie Decider using Python 🐍. <br>💪🏼 I'm Looking to collaborate on any project. <br>🕵🏻 I need help with gathering trivia questions and/or finding trivia-based APIs.<br>🧑🏻‍🏫 Also, I'm learning C/C++, CMake, Rust, Python, C#, .Net, Java, JavaScript, Node.js, SQL, and Docker. Overall, improving my programming skills<br>💬 Ask me about anything!<br>⚡ Fun facts: I started "programming" (I used blocks) in 6th grade. Also, I do photography in my free time. <br><br>
 
 
 ## 🌐 Socials:
