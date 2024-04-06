@@ -1,5 +1,5 @@
 # 🙋🏻‍♂️ About Me:
-🏗️ I'm currently working on building a few projects, one of them being a Movie Decider using Python 🐍. <br>💪🏼 I'm Looking to collaborate on any project. <br>🕵🏻 I need help with gathering trivia questions and/or finding trivia-based APIs.<br>🧑🏻‍🏫 Also, I'm learning C/C++, CMake, Rust, Python, C#, .Net, Java, JavaScript, Node.js, SQL, and Docker. Overall, improving my programming skills<br>💬 Ask me about anything!<br>⚡ Fun facts: I started "programming" (I used blocks) in 6th grade. Also, I do photography in my free time. <br><br>
+🏗️ I'm currently working on building a few projects, one of them being a Movie Decider using Python 🐍. <br>💪🏼 I'm Looking to collaborate on any project. <br>🕵🏻 I need help with gathering trivia questions and/or finding trivia-based APIs.<br>🧑🏻‍🏫 Also, I'm learning C/C++, CMake, Rust, Python, C#, Java, JavaScript, SQL, and Docker. Overall, improving my programming skills<br>💬 Ask me about anything!<br>⚡ Fun facts: I started "programming" (I used blocks) in 6th grade. Also, I do photography in my free time. <br><br>
 
 
 ## 🌐 Socials:
@@ -16,13 +16,8 @@ Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
-Frameworks:
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-
 Developer tools:
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
