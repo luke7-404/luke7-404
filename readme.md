@@ -1,5 +1,5 @@
 # 🙋🏻‍♂️ About Me:
-🏗️ I'm currently working on building a few projects, one of them being the code for my robotics team, 255M - Moon. <br>💪🏼 I'm Looking to collaborate on any project. <br>🕵🏻 I need help with gathering trivia questions and/or finding trivia-based APIs.<br>🧑🏻‍🏫 Also, I'm learning C/C++, CMake, Rust, Python, C#, Java, JavaScript, SQL, and Docker. Overall, improving my programming skills<br>💬 Ask me about anything!<br>⚡ Fun facts: I started "programming" (I used blocks) in 6th grade. Also, I do photography in my free time. <br><br>
+🏗️ I'm currently working on building a few projects, one of them being the code for my robotics team, 255M - Moon. <br>💪🏼 I'm Looking to collaborate on any project. <br>🕵🏻 I need help gathering trivia questions or finding trivia-based APIs.<br>🧑🏻‍🏫 Also, I'm learning C/C++, Rust, Python, C#, Java. Overall, improving my programming skills<br>💬 Ask me about anything!<br>⚡ Fun facts: I do photography in my free time. <br><br>
 
 
 ## 🌐 Socials:
@@ -14,11 +14,6 @@ Languages:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-Developer tools:
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=luke7-404&theme=slateorange&hide_border=false)<br/>
